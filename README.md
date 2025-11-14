@@ -50,7 +50,7 @@ Console Application
 Clone the repository:
 
 bash
-git clone https://github.com/preshstoner/SaliburyUniversity.git
+git clone https://github.com/preshstoner/-Salisbury-University-IQ-Testing-System.git
 Open the solution in Visual Studio 2022.
 
 Build and run the project:
