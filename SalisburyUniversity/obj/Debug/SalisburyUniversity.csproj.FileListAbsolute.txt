@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\C#\SalisburyUniversity\obj\Debug\SalisburyUniversity.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\C#\SalisburyUniversity\obj\Debug\SalisburyUniversity.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C#\SalisburyUniversity\bin\Debug\SalisburyUniversity.exe.config
+C:\Users\USER\OneDrive\Desktop\C#\SalisburyUniversity\bin\Debug\SalisburyUniversity.exe
+C:\Users\USER\OneDrive\Desktop\C#\SalisburyUniversity\bin\Debug\SalisburyUniversity.pdb
+C:\Users\USER\OneDrive\Desktop\C#\SalisburyUniversity\obj\Debug\SalisburyUniversity.exe
+C:\Users\USER\OneDrive\Desktop\C#\SalisburyUniversity\obj\Debug\SalisburyUniversity.pdb
